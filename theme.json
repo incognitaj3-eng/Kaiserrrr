@@ -30,7 +30,7 @@
             "#0A182A"
         ],
         "INTERACTIVE_TEXT_DEFAULT": [
-            "#5BA7FF"
+            "#FFFFFF"
         ],
         "EMBED_BACKGROUND": [
             "#0E2138"
@@ -41,11 +41,11 @@
     },
     "rawColors": {
         "PRIMARY_500": "#1769D1",
-        "PRIMARY_100": "#DCEEFF",
-        "PRIMARY_200": "#B8DBFF",
-        "PRIMARY_300": "#7DBBFF",
-        "PRIMARY_360": "#5BA7FF",
-        "PRIMARY_400": "#3690F5",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#FFFFFF",
+        "PRIMARY_360": "#FFFFFF",
+        "PRIMARY_400": "#FFFFFF",
         "PRIMARY_600": "#1255AD",
         "PRIMARY_630": "#104B99",
         "PRIMARY_660": "#0D4085",
@@ -62,7 +62,9 @@
         "YELLOW_300": "#E8C45A",
         "GREEN_600": "#27B77A",
         "RED_400": "#E05261",
-        "WHITE_500": "#F3F8FF",
+
+        "WHITE_500": "#FFFFFF",
+
         "GREEN_360": "#35C98A",
         "BLUE_345": "#4A9EFF",
 
@@ -90,29 +92,22 @@
     },
     "fonts": {
         "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
-
         "ggsans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
         "ggsans-BoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
-
         "ggsans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
         "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
-
         "ggsans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
         "ggsans-MediumItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
-
         "ggsans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
         "ggsans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
-
         "ggsans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
         "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
-
         "NotoSans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
         "NotoSans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
         "NotoSans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
         "NotoSans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
         "NotoSans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
         "NotoSans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
-
         "SourceCodePro-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
         "ggmono-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf"
     },
