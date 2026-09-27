@@ -1,111 +1,124 @@
 {
-    "name": "<name here>",
-    "description": "<desc here>",
+    "name": "Kaiser Blue",
+    "description": "A cold, dark and elegant blue theme inspired by Michael Kaiser.",
     "authors": [
         {
-            "name": "<discord handle here>",
-            "id": "<user id here>"
+            "name": "koji_0a.",
+            "id": "992912645135024168"
         }
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "<hex>"
+            "#050B14"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "<hex>"
+            "#0B1727"
         ],
-		"PANEL_BG": [
-			"<hex>"
-		],
+        "PANEL_BG": [
+            "#0E1D31"
+        ],
         "BACKGROUND_SURFACE_RAISED": [
-            "<hex>"
+            "#132943"
         ],
-		"BACKGROUND_BRAND": [
-			"<hex>"
-		],
+        "BACKGROUND_BRAND": [
+            "#1769D1"
+        ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "<hex>"
+            "#0D1D31"
         ],
-		"INPUT_BACKGROUND_DEFAULT": [
-			"<hex>"
-		],
+        "INPUT_BACKGROUND_DEFAULT": [
+            "#0A182A"
+        ],
         "INTERACTIVE_TEXT_DEFAULT": [
-            "<hex>"
+            "#5BA7FF"
         ],
-		"EMBED_BACKGROUND": [
-			"<hex>"
-		],
-		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-			"<hex>"
-		]
+        "EMBED_BACKGROUND": [
+            "#0E2138"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#173454"
+        ]
     },
     "rawColors": {
-        "PRIMARY_500": "<hex>",
-        "PRIMARY_100": "<hex>",
-        "PRIMARY_200": "<hex>",
-        "PRIMARY_300": "<hex>",
-        "PRIMARY_360": "<hex>",
-        "PRIMARY_400": "<hex>",
-        "PRIMARY_600": "<hex>",
-        "PRIMARY_630": "<hex>",
-        "PRIMARY_660": "<hex>",
-        "PRIMARY_700": "<hex>",
-        "PRIMARY_800": "<hex>",
-        "BLACK_500": "<hex>",
-        "BRAND_260": "<hex>",
-        "BRAND_360": "<hex>",
-		"BRAND_500": "<hex>",
-        "BRAND_560": "<hex>",
-        "YELLOW_300": "<hex>",
-        "GREEN_600": "<hex>",
-        "RED_400": "<hex>",
-        "WHITE_500": "<hex>",
-        "GREEN_360": "<hex>",
-		"BLUE_345": "<hex>",
-		"PLUM_24": "<hex>",
-        "PLUM_23": "<hex>",
-		"PLUM_22": "<hex>",
-        "PLUM_20": "<hex>",
-		"PLUM_19": "<hex>",
-        "PLUM_18": "<hex>",
-        "PLUM_17": "<hex>",
-        "PLUM_16": "<hex>",
-        "PLUM_15": "<hex>",
-        "PLUM_13": "<hex>",
-        "PLUM_10": "<hex>",
-        "PLUM_3": "<hex>",
-        "PLUM_9": "<hex>",
-		"PLUM_6": "<hex>",
-		"PLUM_1": "<hex>"
+        "PRIMARY_500": "#1769D1",
+        "PRIMARY_100": "#DCEEFF",
+        "PRIMARY_200": "#B8DBFF",
+        "PRIMARY_300": "#7DBBFF",
+        "PRIMARY_360": "#5BA7FF",
+        "PRIMARY_400": "#3690F5",
+        "PRIMARY_600": "#1255AD",
+        "PRIMARY_630": "#104B99",
+        "PRIMARY_660": "#0D4085",
+        "PRIMARY_700": "#0B376F",
+        "PRIMARY_800": "#082B59",
+
+        "BLACK_500": "#050A12",
+
+        "BRAND_260": "#8CC4FF",
+        "BRAND_360": "#5BA7FF",
+        "BRAND_500": "#1769D1",
+        "BRAND_560": "#145DBB",
+
+        "YELLOW_300": "#E8C45A",
+        "GREEN_600": "#27B77A",
+        "RED_400": "#E05261",
+        "WHITE_500": "#F3F8FF",
+        "GREEN_360": "#35C98A",
+        "BLUE_345": "#4A9EFF",
+
+        "PLUM_24": "#050B14",
+        "PLUM_23": "#07101D",
+        "PLUM_22": "#081321",
+        "PLUM_20": "#0A1728",
+        "PLUM_19": "#0B192B",
+        "PLUM_18": "#0D1D31",
+        "PLUM_17": "#0F2137",
+        "PLUM_16": "#112640",
+        "PLUM_15": "#132943",
+        "PLUM_13": "#162F4C",
+        "PLUM_10": "#193756",
+        "PLUM_3": "#214668",
+        "PLUM_9": "#1C3D5E",
+        "PLUM_6": "#254D73",
+        "PLUM_1": "#2B5A85"
     },
     "background": {
-        "url": "<img>",
+        "url": "https://preview.redd.it/wallpaper-kaiser-v0-k9zdiwawf9ye1.jpg?width=736&format=pjpg&auto=webp&s=3e4d96d153919abcd4b8b8883771846049a9030e",
         "alpha": 1,
+        "size": "cover",
+        "position": "center"
     },
-	"fonts": {
-		"ABCGintoNord-ExtraBold": "<font>",
-		"ggsans-Bold": "<font>",
-		"ggsans-BoldItalic": "<font>",
-		"ggsans-ExtraBold": "<font>",
-		"ggsans-ExtraBoldItalic": "<font>",
-		"ggsans-Medium": "<font>",
-		"ggsans-MediumItalic": "<font>",
-		"ggsans-Normal": "<font>",
-		"ggsans-NormalItalic": "<font>",
-		"ggsans-Semibold": "<font>",
-		"ggsans-SemiboldItalic": "<font>",
-		"NotoSans-Bold": "<font>",
-		"NotoSans-ExtraBold": "<font>",
-		"NotoSans-Medium": "<font>",
-		"NotoSans-Normal": "<font>",
-		"NotoSans-NormalItalic": "<font>",
-		"NotoSans-Semibold": "<font>",
-		"SourceCodePro-Semibold": "<font>",
-	  	"ggmono-Normal": "<font>"
-	},
-	"plus": {
-    "version": "0",
-    "iconpack": "<iconpack>"
-},
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+
+        "ggsans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+        "ggsans-BoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
+
+        "ggsans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+
+        "ggsans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
+        "ggsans-MediumItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
+
+        "ggsans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+        "ggsans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+
+        "ggsans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
+
+        "NotoSans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+        "NotoSans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+        "NotoSans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+        "NotoSans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
+
+        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
+        "ggmono-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "solar"
+    },
     "spec": 2
 }
